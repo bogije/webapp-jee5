@@ -7,7 +7,7 @@
   <packaging>war</packaging>
   <version>${version}</version>
 
-  <name>${artifactId} JEE5 Webapp</name>
+  <name>${artifactId}</name>
   <url>http://maven.apache.org</url>
 
   <dependencies>
@@ -47,6 +47,5 @@
         </configuration>
       </plugin>
     </plugins>
-    <finalName>${artifactId}</finalName>
   </build>
 </project>
